@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Saiful Labib",
+        "nim": "1234567",
+        "email": "sl@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Marzuqi Hidayat",
+        "nim": "2345678",
+        "email": "mh@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Siti Mulyani",
+        "nim": "3456789",
+        "email": "sm@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 3
+    }
+]
